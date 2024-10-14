@@ -1,0 +1,27 @@
+|username           |media_count|
+|-------------------|-----------|
+|Eleonora Giallo    |41         |
+|Antonio Arancio    |41         |
+|Marco Verde        |40         |
+|Francesca Blu      |39         |
+|Federico Viola     |38         |
+|Giovanni Marras    |38         |
+|Simone Marroni     |36         |
+|Chiara Celeste     |35         |
+|Luigi Rosso        |35         |
+|Elena Ferraro      |34         |
+|Francesco Arancione|34         |
+|Giuseppe Gialli    |32         |
+|Laura Neri         |32         |
+|Michele Verdi      |31         |
+|Mario Rossi        |28         |
+|Luca Bianchi       |28         |
+|Anna Verdi         |28         |
+|Alessandro Rosa    |28         |
+|Riccardo Giallo    |28         |
+|Giorgia Blu        |27         |
+|Serena Viola       |27         |
+|Alessia Rosa       |26         |
+|Elisa Arancione    |23         |
+|Roberto Celeste    |21         |
+|Martina Rosso      |20         |

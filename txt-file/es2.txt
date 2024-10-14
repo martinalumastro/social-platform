@@ -1,0 +1,15 @@
+|id |user_id|title                                               |date               |tags                                                           |created_at         |updated_at|
+|---|-------|----------------------------------------------------|-------------------|---------------------------------------------------------------|-------------------|----------|
+|8  |2      |Riflessioni notturne sulla vita                     |2021-04-14 09:55:26|"[\"riflessioni\", \"notte\", \"vita\"]"                       |2024-10-14 17:46:38|          |
+|13 |3      |Una serata divertente al karaoke                    |2021-11-04 11:17:28|"[\"serata\", \"divertimento\", \"karaoke\"]"                  |2024-10-14 17:46:38|          |
+|16 |3      |Inizio di una nuova fase professionale              |2022-12-27 14:10:25|"[\"nuova fase\", \"professionale\"]"                          |2024-10-14 17:46:38|          |
+|18 |3      |Sorrisi e abbracci sinceri                          |2020-12-06 01:17:37|"[\"sorrisi\", \"abbracci\", \"affetto\"]"                     |2024-10-14 17:46:38|          |
+|22 |4      |Prima colazione con vista sulla citt├á              |2021-05-21 08:58:46|"[\"colazione\", \"vista\", \"citt├á\"]"                       |2024-10-14 17:46:38|          |
+|47 |7      |Pausa riflessiva nel parco cittadino                |2022-10-12 08:28:18|"[\"pausa\", \"riflessiva\", \"parco\", \"cittadino\"]"        |2024-10-14 17:46:38|          |
+|76 |10     |Riflessioni sulla crescita personale                |2020-01-14 14:18:03|"[\"riflessioni\", \"crescita personale\"]"                    |2024-10-14 17:46:38|          |
+|79 |11     |Condivisione di pensieri positivi e ispiranti       |2021-09-30 04:33:32|"[\"condivisione\", \"pensieri\", \"positivi\", \"ispiranti\"]"|2024-10-14 17:46:38|          |
+|80 |11     |Cena con amici, risate e buona compagnia            |2022-07-27 22:51:26|"[\"amici\", \"risate\", \"compagnia\"]"                       |2024-10-14 17:46:38|          |
+|82 |11     |Esplorazione di nuovi percorsi nella citt├á         |2021-01-26 10:16:06|"[\"esplorazione\", \"percorsi\", \"citt├á\"]"                 |2024-10-14 17:46:38|          |
+|87 |11     |Colazione energizzante per iniziare bene la giornata|2021-08-25 19:12:42|"[\"colazione\", \"energizzante\", \"iniziare\", \"giornata\"]"|2024-10-14 17:46:38|          |
+|145|21     |Giornata di pesca rilassante                        |2020-08-15 09:57:22|"[\"pesca\", \"rilassante\"]"                                  |2024-10-14 17:46:38|          |
+|158|24     |Sviluppo delle abilit├á di fotografia notturna      |2021-07-25 10:43:33|"[\"fotografia\", \"notte\"]"                                  |2024-10-14 17:46:39|          |

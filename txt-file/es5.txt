@@ -1,0 +1,27 @@
+|username           |total_likes|
+|-------------------|-----------|
+|Eleonora Giallo    |61         |
+|Federico Viola     |61         |
+|Antonio Arancio    |57         |
+|Laura Neri         |51         |
+|Giuseppe Gialli    |50         |
+|Alessandro Rosa    |50         |
+|Simone Marroni     |49         |
+|Francesca Blu      |47         |
+|Luca Bianchi       |46         |
+|Mario Rossi        |41         |
+|Elena Ferraro      |41         |
+|Elisa Arancione    |41         |
+|Serena Viola       |40         |
+|Anna Verdi         |36         |
+|Francesco Arancione|34         |
+|Giorgia Blu        |32         |
+|Martina Rosso      |32         |
+|Michele Verdi      |30         |
+|Luigi Rosso        |29         |
+|Giovanni Marras    |28         |
+|Roberto Celeste    |26         |
+|Marco Verde        |25         |
+|Riccardo Giallo    |25         |
+|Alessia Rosa       |25         |
+|Chiara Celeste     |22         |

@@ -6,7 +6,8 @@
 - username VARCHARE(80) UNIQUE NOTNALL
 - name VARCHARE(30) NOTNULL
 - lastname VARCHARE (30) NOTNULL
-- email VARCHARE(80) NOTNULL
+- email VARCHARE(80) UNIQUE NOTNULL
+- password VARCHARE (20) NOTNULL
 - number TINYINT NULL
 - photo_profile NULL
 - biography VARCHARE(100) NULL
