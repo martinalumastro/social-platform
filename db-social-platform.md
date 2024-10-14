@@ -1,0 +1,52 @@
+# DB SOCIAL PLATFORM
+
+## table: utente
+
+- id BIGINT PK AI UNIQUE NOTNALL
+- username VARCHARE(80) UNIQUE NOTNALL
+- name VARCHARE(30) NOTNULL
+- lastname VARCHARE (30) NOTNULL
+- email VARCHARE(80) NOTNULL
+- number TINYINT NULL
+- photo_profile NULL
+- biography VARCHARE(100) NULL
+- hyperlink VARCHARE(30) NULL
+
+## table: post
+
+- id BIGINT PK AI UNIQUE NOTNALL
+- utente_id UNSIGNED BIGINT PK NOTNULL
+- publication_date DATE NOTNULL
+- text TEXT NOTNULL
+- media_space NULL
+
+## table: media
+
+- id BIGINT PK AI UNIQUE NOTNALL
+- post_id UNSIGNED BIGINT PK NOTNULL
+- format VARCHARE(6) NOTNULL
+
+## table: tags
+
+- id BIGINT PK AI UNIQUE NOTNALL
+- tag_text VARCHARE(20) NOTNULL
+
+## table: post-tags (pivot)
+
+- id BIGINT PK AI UNIQUE NOTNALL
+- post_id UNSIGNED BIGINT PK NOTNULL
+- tag_id UNSIGNED BIGINT PK NOTNULL
+
+## table: like
+
+- id BIGINT PK AI UNIQUE NOTNALL
+- post_id UNSIGNED BIGINT PK NOTNULL
+- utente_id UNSIGNED BIGINT PK NOTNULL
+
+## table: commenti
+
+- id BIGINT PK AI UNIQUE NOTNALL
+- post_id UNSIGNED BIGINT PK NOTNULL
+- utente_id UNSIGNED BIGINT PK NOTNULL
+- publication_date DATE NOTNULL
+- text TEXT NOTNULL
